@@ -88,6 +88,7 @@ Card Template: https://boardgamegeek.com/filepage/107967/fluxx-custom-card-templ
 - Today’s Special (Set your hand aside and draw 3 cards. If today is your birthday, play all 3 cards. If today is a holiday or special anniversary, play 2 of the cards. If it’s just another day, play only 1 card. Discard the remainder.)
 - Rules Reset (Reset to Basic Rules. Discard all new rule cards, and leave only the basic rules in play. Do not discard the current Goal.)
 - Sneakernet. Everyone chooses one card to pass to the left.  If your hand is empty, you just receive a card (don’t have to draw or pass.)
+- Mark Zuckerberg. Capitalize on everything.
 
 ## Goals
 
